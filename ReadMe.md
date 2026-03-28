@@ -1,0 +1,1 @@
+The purpose of this project is to create a algoritm that organize and summarize the geolocation and acceleration of a vehicle along curves. For that, I will be using an Arduino and some attachments.
